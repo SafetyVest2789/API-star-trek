@@ -15,7 +15,7 @@ const aliens = {
         'notableExamples' : "James T. Kirk, Zephram Cochran, Abraham Lincoln",
         'image': 'https://static.wikia.nocookie.net/aliens/images/6/68/The_City_on_the_Edge_of_Forever.jpg'
     },
-    'vulcan': {
+    'vulcans': {
         'speciesName' : 'Vulcans',
         'homeworld': 'Vulcan',
         'features':'Pointed ears, upward-curving eyebrows',
